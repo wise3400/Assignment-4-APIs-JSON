@@ -1,4 +1,4 @@
-// dog api
+// dog api - https://dogapi.dog/docs/api-v2
 fetch('https://dogapi.dog/docs/api-v2')
   .then((response) => { return response.json() })
   //.then(function(response) { return response.json() })
